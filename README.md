@@ -9,11 +9,7 @@ A fully automated instagram bot for  that would help Business accounts to reach 
 Business Accounts always need a larger audience and hence this bot does is automates the process that needs a lot of Human effort like following random people, liking photos, unfollowing  etc
 Below I'll add the photo of how it keeps on unfollowing people on Instagram.
 
-[![Video link](http://img.youtube.com/vi/9vBas8LmMFI/0.jpg)](http://www.youtube.com/watch?v=9vBas8LmMFI "Unfollow Automatically using Insta_BOT")
+[![Video link](http://img.youtube.com/vi/9vBas8LmMFI/0.jpg )](http://www.youtube.com/watch?v=9vBas8LmMFI "Unfollow Automatically using Insta_BOT")
 
 Future  update may involve replying to DM's similar to chatbot as this increases the follower interaction etc. 
-    <iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<a href="{http://www.youtube.com/watch?v=9vBas8LmMFI}" title="Link Title"><img src="{http://img.youtube.com/vi/9vBas8LmMFI/0.jpg }" alt="Alternate Text" /></a>
