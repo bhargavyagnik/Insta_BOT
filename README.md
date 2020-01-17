@@ -10,7 +10,7 @@ Business Accounts always need a larger audience and hence this bot does is autom
 Below I'll add the photo of how it keeps on unfollowing people on Instagram.
 
 <p align="center">
-<a href="http://www.youtube.com/watch?v=9vBas8LmMFI" title="Link Title"><img src="http://img.youtube.com/vi/9vBas8LmMFI/0.jpg"  width="800" alt="Unfollow Automatically using Insta_BOT" /></a>
+<a href="http://www.youtube.com/watch?v=9vBas8LmMFI" title="Link Title"><img src="http://img.youtube.com/vi/9vBas8LmMFI/0.jpg"  width="640" alt="Unfollow Automatically using Insta_BOT" /></a>
 </p>
 
 
