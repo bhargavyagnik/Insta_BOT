@@ -5,3 +5,9 @@ A fully automated instagram bot for  that would help Business accounts to reach 
 <br>
   <img src="https://camo.githubusercontent.com/4cd0bf58a8cffad17820826a99facc2821a8c50d/68747470733a2f2f692e696d6775722e636f6d2f734a7a665a734c2e6a7067" width="100">
 </p>
+
+Business Accounts always need a larger audience and hence this bot does is automates the process that needs a lot of Human effort like following random people, liking photos, unfollowing  etc
+Below I'll add the photo of how it keeps on unfollowing people on Instagram.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ienGUvk1O4U?start=8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Future  update may involve replying to DM's similar to chatbot as this increases the follower interaction etc. 
