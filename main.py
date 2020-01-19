@@ -73,6 +73,26 @@ class InstagramBot:
                 time.sleep(4)
             except Exception as e:
                 print(e)
+  def interact_tags(self,comment=False,like=True,tag="Likeforlike",no_of_posts=1):
+        comments=["Nice Pic","Amazing","😍😍","🤩","Wowww😍"]
+        goto("https://www.instagram.com/explore/tags/"+tag)
+        for i in range(no_of_posts):
+            try:
+                images = driver.find_elements_by_class_name("_bz0w")
+                image_curr = images[i].find_element_by_tag_name("a").get_attribute("href")
+                driver.get(image_curr)
+            except Exception as e:
+                driver.find_element_by_tag_name('body').send_keys(Keys.END)
+            if like==True:
+                b=driver.find_element_by_xpath("/html/body/div[1]/section/main/div/div/article/div[2]/section[1]/span[1]/button/svg")
+                b.click()
+                print("Liked")
+            if comment==True:
+                b=driver.find_elements_by_xpath("/html/body/div[1]/section/main/div/div/article/div[2]/section[3]")
+                b.send_keys(random.choice(comments))
+                print("Commented")
+            time.sleep(10)
+            goto("https://www.instagram.com/explore/tags/" + tag)
 
 
 
