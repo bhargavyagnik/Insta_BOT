@@ -14,4 +14,5 @@ Below I'll add the photo of how it keeps on unfollowing people on Instagram.
 </p>
 
 
-Future  update may involve replying to DM's similar to chatbot as this increases the follower interaction etc. 
+#### Update  
+Like and comment to posts on given tags
