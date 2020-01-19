@@ -98,4 +98,5 @@ class InstagramBot:
 
 i=InstagramBot(email="########",password="##########")
 i.login()
-i.unfollow(count=20)
+i.interact_tags(comment=True,like=True,tag="Food")
+#i.unfollow(count=20)
