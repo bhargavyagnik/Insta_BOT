@@ -18,3 +18,6 @@ Below I'll add the photo of how it keeps on unfollowing people on Instagram.
 Like and comment to posts on given tags
 
 <a href="https://youtu.be/NFUc2yxAYPg" title="Link Title"><img src="http://img.youtube.com/vi/NFUc2yxAYPg/0.jpg"  width="640" alt="Like and Comment on Post Automatically using Insta_BOT" /></a>
+
+
+#### Further Update to Involve a Instagram Manager that would keep a track of all your followers and then show the data on a Dashboard
